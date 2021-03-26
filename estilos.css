@@ -1,0 +1,40 @@
+.header {
+  background-color: #333;
+  height: 64px;
+  width: 100%;
+}
+.titulo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: white;
+}
+.caixa-de-meme {
+  width: 640px;
+  height: auto;
+  background-color: #fff;
+  margin: 30px auto;
+  -webkit-box-shadow: 0 0 10px #ddd;
+  box-shadow: 0 0 10px #ddd;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+}
+.meme {
+  width: 95%;
+  display: block;
+  margin: 15px auto 0 auto;
+  border-radius: 10px;
+}
+.titulo-do-meme {
+  color: #aa4653;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 30px;
+}
+.legenda-do-meme {
+  color: #000;
+  margin: 0 30px 30px 30px;
+}
